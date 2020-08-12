@@ -1,2 +1,2 @@
 [build]
-publish = "vault-bootstrap-1"
+publish = "~/vault-bootstrap-1"
